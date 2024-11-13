@@ -29,4 +29,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENS
   <img src="https://contrib.rocks/image?repo=jdetrizep/HardCode_Check" />
 </a>
 
+<a class="users" href="https://github.com/rgarciale">@rgarciale</a>
+<a class="users" href="https://github.com/jdetrizep">@jdetrizep</a>
+
 Made with [contrib.rocks](https://contrib.rocks).
