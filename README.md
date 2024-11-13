@@ -25,6 +25,8 @@ Hard Code Check de Novacomp es una extensión para Visual Studio Code diseñada 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Colaboradores
+<a href="https://github.com/jdetrizep/HardCode_Check/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jdetrizep/HardCode_Check" />
+</a>
 
-@JorgeDeTrinidad
-@RamiroGarcía
+Made with [contrib.rocks](https://contrib.rocks).
